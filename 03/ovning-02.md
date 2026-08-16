@@ -6,7 +6,7 @@ I den här övningen kommer vi:
 - ge en grupp rätt att köra administrativa kommandon
 - se skillnaden mellan ett vanligt konto och ett administrativt konto i praktiken
 
-Det här är rollbaserad åtkomstkontroll på Linuxnivå, och det knyter direkt an till principen om att separera vardagskonto och adminkonto.
+Det här är rollbaserad åtkomstkontroll på Linuxnivå och det knyter direkt an till principen om att separera vardagskonto och adminkonto.
 
 ## Starta miljön
 
