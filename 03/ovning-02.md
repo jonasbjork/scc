@@ -1,7 +1,5 @@
 # Övning - Användare, grupper och sudo i en container
 
-*Svårighetsgrad: grundläggande*
-
 I den här övningen kommer vi:
 
 - skapa användare och grupper i en Fedora-container
