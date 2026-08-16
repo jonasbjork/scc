@@ -1,4 +1,4 @@
-# Övning 7 - Användare, grupper och sudo i en container
+# Övning - Användare, grupper och sudo i en container
 
 *Svårighetsgrad: grundläggande*
 
