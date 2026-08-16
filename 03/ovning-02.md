@@ -30,7 +30,7 @@ docker run -it --name linux-iam fedora:44 /bin/bash
 Vi installerar verktygen vi behöver:
 
 ```console
-dnf install -y sudo passwd
+dnf install -y sudo passwd su
 ```
 
 ## Skapa användare och grupper
@@ -98,7 +98,7 @@ sudo dnf install -y tree
 
 Den här gången går det, efter att vi angett lösenordet.
 
-> När vi städar upp efter labben, tänk på att `userdel` tar bort ett konto men att vi behöver `userdel -r` för att också ta bort hemkatalogen. Materialet påminner oss om att gamla, kvarlämnade konton är en risk - det gäller även i det lilla.
+> När vi städar upp efter labben, tänk på att `userdel` tar bort ett konto men att vi behöver `userdel -r` för att också ta bort hemkatalogen. Materialet påminner oss om att gamla, kvarlämnade konton är en risk - det gäller även i det lilla. Det går också bra att radera containern för att städa upp.
 
 ## Reflektion och redovisning
 
